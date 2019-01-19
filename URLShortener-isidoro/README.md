@@ -1,6 +1,6 @@
 <h1>URL Shortener</h1>
 
-<h2>A Java Service built with Spring Boot, and Redis.</h1>
+<h2>A Java Service built with Spring Boot, and Redis by Peterson Isidoro.</h1>
 
 <h3>common</h3>
 <b>IDConverter.java</b> <br />
