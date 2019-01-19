@@ -3,5 +3,5 @@
 
 There are two projects:
 <h2>The first in JAVA</h2>
-The second in Javascript
+<h2>The second in Javascript</h2>
 
